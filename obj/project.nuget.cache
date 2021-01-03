@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TyYj2Cnk9P+/QJW3a0FYUY+n84HPG3pbHH25H+E88d4Cz/IvE5B0u2UTeU6IKfUY/hifYxbz5eGc2LhToXBZXg==",
+  "success": true,
+  "projectFilePath": "/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/ListFiles.csproj",
+  "expectedPackageFiles": [
+    "/Users/tristandeaugustine/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

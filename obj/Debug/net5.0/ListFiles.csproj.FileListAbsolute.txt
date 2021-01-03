@@ -1,0 +1,17 @@
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/bin/Debug/net5.0/ListFiles.deps.json
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/bin/Debug/net5.0/ListFiles.runtimeconfig.json
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/bin/Debug/net5.0/ListFiles.runtimeconfig.dev.json
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/bin/Debug/net5.0/ListFiles.dll
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/bin/Debug/net5.0/ref/ListFiles.dll
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/bin/Debug/net5.0/ListFiles.pdb
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.csprojAssemblyReference.cache
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.AssemblyInfoInputs.cache
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.AssemblyInfo.cs
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.csproj.CoreCompileInputs.cache
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.dll
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ref/ListFiles.dll
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.pdb
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.genruntimeconfig.cache
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/tristandeaugustine/Desktop/JimTestDB/Components/ListFiles/obj/Debug/net5.0/ListFiles.csproj.CopyComplete
